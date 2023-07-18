@@ -4,7 +4,7 @@ ETL (Extraction, Transform, Load) Project to clean data sourced from crowdfundin
 ### Project Introduction
 This is a project to build an ETL pipeline using Python, Pandas, and Python dictionary methods to extract and transform the data. After transforming the data, four CSV files are created and these files are used to create an ERD and a table schema. Finally, these CSV files are used to create a Postgres database.
 
-###Team Members - with GitHub Handles
+### Team Members - with GitHub Handles
 * Dan Dreger - DanDreger
 * Tony Jordan - anthjordan
 * Yi Zhang - gnahziy
