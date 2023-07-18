@@ -11,7 +11,7 @@ This is a project to build an ETL pipeline using Python, Pandas, and Python dict
 * Alexis Rangel - alexxisrangel
 * Andrew Brannon - Andbra2
 
-* ### File Structure
+### File Structure
 * The "extraction" and "transformation" work is contained in the ETL_Mini_Project_dDreger_yZhang_aRangel_aLopez.ipynb file
 * Starting data is in the "Resources" Directory in the Crouwdfunding.xls and contacts.xls files
 * 4 CSV files are created in the ETL_Mini_Project_dDreger_yZhang_aRangel_aLopez.ipynb file, which are used to create the ERD
